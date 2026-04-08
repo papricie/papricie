@@ -1,3 +1,9 @@
 ## Hi there 👋
 
-Thirteen magical years as a freelance DTP designer, solving complex tasks and improving workflows to make things run smoother naturally led me into the world of tech. I expanded into Python and test automation through a six-month academy and continue to grow these skills through courses, workshops and community projects. I’m seeking my first professional opportunity – a place where I can apply what I’ve learned and keep growing. Outside the screen, I embrace curiosity and adventure – van trips, music festivals, movement in any form, and mindfulness with a cold beer on a sunny day.
+Thirteen magical years as a freelance DTP designer, solving complex tasks and improving workflows to make things run smoother naturally led me into the world of tech. 
+
+I expanded into Python and test automation through a six-month academy and continue to grow these skills through courses, workshops and community projects. 
+
+I’m seeking my first professional opportunity – a place where I can apply what I’ve learned and keep growing. 
+
+Outside the screen, I embrace curiosity and adventure – van trips, music festivals, movement in any form, and mindfulness with a cold beer on a sunny day.
