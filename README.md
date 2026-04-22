@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cultivating Python and QA. Growing into an entry-level tech role.
 
 Thirteen magical years as a freelance DTP designer, solving complex tasks and improving workflows to make things run smoother naturally led me into the world of tech. 
 
